@@ -130,3 +130,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/imagenet_resnet_v2_50_classification_5.tar.gz
