@@ -4,7 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.ipynb_checkpoints" />
     </content>
-    <orderEntry type="jdk" jdkName="densenet" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="chest-xray" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
