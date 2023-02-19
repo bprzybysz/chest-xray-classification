@@ -133,3 +133,6 @@ dmypy.json
 .pyre/
 /imagenet_resnet_v2_50_classification_5.tar.gz
 
+/trained_img_confusion_matrix.png
+/trained_img_predictions.png
+/xray_class_weights.best.hdf5
