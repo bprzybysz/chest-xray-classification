@@ -136,3 +136,4 @@ dmypy.json
 /trained_img_confusion_matrix.png
 /trained_img_predictions.png
 /xray_class_weights.best.hdf5
+/train-simple-xray-cnn.ipynb
